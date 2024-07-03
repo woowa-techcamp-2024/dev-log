@@ -1,4 +1,4 @@
-baseURL = "https://woowa-techcamp-24.github.io/dev-log/"
+baseURL = "https://woowa-techcamp-2024.github.io/dev-log/"
 languageCode = "ko-kr"
 title = "우테캠 기술 블로그"
 theme = "github-style"
