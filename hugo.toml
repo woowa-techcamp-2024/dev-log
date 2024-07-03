@@ -1,3 +1,22 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://woowa-techcamp-24.github.io/dev-log/"
+languageCode = "ko-kr"
+title = "우테캠 기술 블로그"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+contentDir = "content"
+
+[params]
+  author = "Yoda Codd"
+  description = "우아하게 함께 성장하는 개발자 로그"
+  keywords = "blog, web, backend"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/dev-log//images/favicon.png"
+  avatar = "/dev-log/images/woowa.png"
+  headerIcon = "/dev-log/images/woowacon.png"
+  location = "Korea"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
