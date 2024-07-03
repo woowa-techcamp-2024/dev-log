@@ -5,6 +5,7 @@ theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 contentDir = "content"
+publishdir = "./docs/"
 
 [params]
   author = "Yoda Codd"
