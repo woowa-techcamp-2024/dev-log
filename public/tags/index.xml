@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 우테캠 기술 블로그</title>
-    <link>http://localhost:1313/dev-log/tags/</link>
+    <link>https://woowa-techcamp-24.github.io/dev-log/tags/</link>
     <description>Recent content in Tags on 우테캠 기술 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="http://localhost:1313/dev-log/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://woowa-techcamp-24.github.io/dev-log/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

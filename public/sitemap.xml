@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dev-log/readme/</loc>
+    <loc>https://woowa-techcamp-24.github.io/dev-log/</loc>
     <lastmod>2024-07-03T14:21:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dev-log/</loc>
-    <lastmod>2024-07-03T14:21:29+09:00</lastmod>
+    <loc>https://woowa-techcamp-24.github.io/dev-log/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/dev-log/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dev-log/tags/</loc>
+    <loc>https://woowa-techcamp-24.github.io/dev-log/tags/</loc>
   </url>
 </urlset>
